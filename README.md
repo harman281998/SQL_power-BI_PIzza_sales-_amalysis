@@ -1,1 +1,1 @@
-# SQL_power-BI_PIzza_sales-_amalysis
+# SQL_power-BI_Pizza_sales-_analysis
